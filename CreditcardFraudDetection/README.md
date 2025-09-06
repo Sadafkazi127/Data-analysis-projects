@@ -22,6 +22,8 @@ We used the Credit Card Fraud Detection dataset, which contains anonymized trans
 5. Feature Selection
 - Use feature importance methods to focus on the most useful indicators of fraud.
 
+ 📃 DATASET USED :- Kaggle
+
 🤖 Model Goal
 Build an AI model that can:
 - Learn from past transaction data.
