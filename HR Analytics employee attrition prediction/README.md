@@ -1,4 +1,4 @@
-Here’s a polished and beginner-friendly README file tailored for your GitHub project on HR Analytics – Employee Attrition Prediction:
+
 
 📊 HR Analytics – Employee Attrition Prediction
 🔍 Objective
